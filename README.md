@@ -1,1 +1,5 @@
-# tux116.github.io
+# tux116
+
+> 自己选的路，跪着也要走下去
+
+![Blog](/assets/img/blog.png)
